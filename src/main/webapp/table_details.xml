@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tables>
+	<Table name="ProductDetails">
+		<column>
+			<name>id</name>
+			<price>int</price>
+			<toshow>0</toshow>
+		</column>
+		<column>
+			<name>Name</name>
+			<price>varchar</price>
+			<toshow>1</toshow>
+		</column>
+		<column>
+			<name>Description</name>
+			<price>varchar</price>
+			<toshow>0</toshow>
+		</column>
+		<column>
+			<name>Actual_Price</name>
+			<price>int</price>
+			<toshow>1</toshow>
+		</column>
+		<column>
+			<name>Category</name>
+			<price>varchar</price>
+			<toshow>1</toshow>
+		</column>
+		<column>
+			<name>Discount</name>
+			<price>int</price>
+			<toShow>0</toShow>
+		</column>
+		<column>
+			<name>Available_count</name>
+			<price>Integer</price>
+			<toShow>0</toShow>
+		</column>
+		<column>
+			<name>Likes</name>
+			<price>int</price>
+			<toShow>0</toShow>
+		</column>
+		<column>
+			<name>Product_Image</name>
+			<price>varchar</price>
+			<toshow>0</toshow>
+		</column>
+		<column>
+			<name>Star</name>
+			<price>int</price>
+			<toshow>1</toshow>
+		</column>
+	</Table>
+</Tables>

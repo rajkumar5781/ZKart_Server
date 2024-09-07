@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/First"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/cassandra-driver-core-3.11.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/cassandra-driver-extras-3.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/cassandra-driver-mapping-3.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/cassandra-driver-core-3.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/java-driver-core-4.17.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/guava-33.0.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-api-1.7.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-jdk14-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-jdk14-1.7.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/netty-common-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-buffer-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-codec-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-codec-http2-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-codec-http-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-common-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-handler-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-handler-proxy-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-icap-1.0.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-resolver-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-tcnative-boringssl-static-2.0.61.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-transport-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (1)/netty-transport-native-unix-common-4.1.104.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (2)/metrics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/Zoho WorkDrive (2)/metrics-core-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/Downloads/commons-io-1.1.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>

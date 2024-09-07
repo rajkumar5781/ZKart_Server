@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+	<table name="productDetails">
+		<column name="id" datatype="int" primary="true" autogenerator="" toshow="0"/>
+		<column name="Name" datatype="varchar" primary="false" autogenerator="" toshow="0"/>
+		<column name="Description" datatype="varchar" primary="false" autogenerator="" toshow="0"/>
+		<column name="Category" datatype="varchar" primary="false" autogenerator="" toshow="1"/>
+		<column name="Actual_price" datatype="int" primary="false" autogenerator="" toshow="1"/>
+		<column name="Discounts" datatype="int" primary="false" autogenerator="" toshow="0"/>
+		<column name="Likes" datatype="int" primary="false" autogenerator="" toshow="0"/>
+		<column name="Available_count" datatype="int" primary="false" autogenerator="" toshow="0"/>
+		<column name="Product_image" datatype="varchar" primary="false" autogenerator="" toshow="0"/>
+		<column name="Star" datatype="int" primary="false" autogenerator="" toshow="1"/>
+		<foreignkey basetable="" basecolumn="">
+
+		</foreignkey>
+	</table>
+	<table name="AddToCardXML">
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+		<column name="productId" datatype="int" primary="false" autogenerator="" />
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+		<column name="id" datatype="int" primary="true" autogenerator="" />
+	</table>
+</tables>

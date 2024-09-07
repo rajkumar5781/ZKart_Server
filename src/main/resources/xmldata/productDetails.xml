@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productDetails>
+	<!-- Electronics -->
+	<Item id="10001">
+		<Name>Sony Bravia 139 cm</Name>
+		<Description>Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 Hertz | 178 Degree wide viewing angle
+			Connectivity: 3 HDMI ports to connect set top box, Blu Ray players, gaming console | 2 USB ports to connect hard drives and other USB devices
+			Sound : 20 Watts Output | Open Baffle Speaker| Dolby Audio | Clear Phase | eARC Input
+			Smart TV Features: Google TV, Watchlist, Voice Search, Google Play, Chromecast, Netflix, Amazon Prime Video, Additional Features: Apple Airplay, Apple Homekit, Alexa | Supported Apps: Netflix, Amazon Prime Video, Disney+ Hotstar, Sony Liv, Zee5, Voot, Jio Cinema and many More
+		</Description>
+		<Category>Electronics</Category>
+		<Actual_price>39000</Actual_price>
+		<Discounts>12</Discounts>
+		<Likes />
+		<Available_count>17</Available_count>
+		<Product_image>tv.jpg</Product_image>
+	</Item>
+	<Item id="10002">
+		<Name>Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator</Name>
+		<Description>Single door refrigerator with Intellisense Inverter Technology &gt; Capacity: 184 liters for families with 2-3 members &gt; Energy Rating - &gt; 2 Star energy efficiency &gt; 1 year product warranty and 10 year compressor warranty &gt; Intellisense Inverter technology - Comes with low starting voltage of 95V and assures 25 years of compressor reliability- certified by VDE Germany *As Certified by VDE Germany &gt; Special Feature - Stabilizer free operations even in high voltage fluctuations between 95V-300V</Description>
+		<Category>Electronics</Category>
+		<Actual_price>23000</Actual_price>
+		<Discounts>2</Discounts>
+		<Likes>2</Likes>
+		<Available_count>33</Available_count>
+		<Product_image>fridge.jpg</Product_image>
+	</Item>
+	<Item id="10003">
+		<Name>Samsung 8 kg Washing Machine</Name>
+		<Description>Samsung 8 kg, 5 star, Eco Bubble Tech, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA80BG4441BGTL, Light Gray, Awarded as Washing Machine Brand of the year)</Description>
+		<Category>Electronics</Category>
+		<Actual_price>18990</Actual_price>
+		<Discounts>30</Discounts>
+		<Likes>7</Likes>
+		<Available_count>992</Available_count>
+		<Product_image>washing_machine.jpg</Product_image>
+	</Item>
+	<Item id="10004">
+		<Name>Lloyd 1.5 Ton 3 Star Inverter Split AC</Name>
+		<Description>Lloyd 1.5 Ton 3 Star Inverter Split AC (5 in 1 Convertible, Anti Corrosion Coating, Copper, Anti-Viral+PM 2.5 Filter, 2024 Model, White with Chrome Deco Strip, GLS18I3FOSEW)</Description>
+		<Category>Electronics</Category>
+		<Actual_price>32990</Actual_price>
+		<Discounts />
+		<Likes />
+		<Available_count>9</Available_count>
+		<Product_image>ac.jpg</Product_image>
+	</Item>
+	<Item id="10005">
+		<Name>Bajaj Fan 1200 mm</Name>
+		<Description>Bajaj Frore 1200 mm (48") 1 star Rated Ceiling Fans for Home |BEE stars Rated Energy Efficient Ceiling Fan |Rust Free Coating for Long Life |High Air Delivery |2-Yr Warranty Brown</Description>
+		<Category>Electronics</Category>
+		<Actual_price>1379</Actual_price>
+		<Discounts>2</Discounts>
+		<Likes>1</Likes>
+		<Available_count>72</Available_count>
+		<Product_image>fan.jpg</Product_image>
+	</Item>
+	<!-- Furniture -->
+	<Item id="10006">
+		<Name>Nilkamal CHR2060 Plastic Mid Back with Arm Chair</Name>
+		<Description>Nilkamal CHR2060 Plastic Mid Back with Arm Chair | Chairs for Home| Dining Room| Bedroom| Kitchen| Living Room| Office - Outdoor - Garden | Dust Free |100% Polypropylene Stackable Chairs | Set of 2</Description>
+		<Category>Furniture</Category>
+		<Actual_price>2200</Actual_price>
+		<Discounts>26</Discounts>
+		<Likes />
+		<Available_count>7</Available_count>
+		<Product_image>chair.jpg</Product_image>
+	</Item>
+	<Item id="10007">
+		<Name>AMATA Wood Elegant 4 Seater Sofa</Name>
+		<Description>AMATA Wood Elegant 4 Seater Sofa With Two Cushions Perfect For Home Office Guests Living Room (4-Person Sofa,L Shape, Ocean Blue1)</Description>
+		<Category>Furniture</Category>
+		<Actual_price>41999</Actual_price>
+		<Discounts>51</Discounts>
+		<Likes>6777</Likes>
+		<Available_count>3</Available_count>
+		<Product_image>sofa.jpg</Product_image>
+	</Item>
+	<Item id="10008">
+		<Name>Wakefit Bed</Name>
+		<Description>Wakefit Bed | 1 Year Warranty | Double Bed, King Size Bed, Taurus Engineered Wood Bed with Storage, Wooden Bed (Matte Finish_Brown)</Description>
+		<Category>Furniture</Category>
+		<Actual_price>50000</Actual_price>
+		<Discounts>69</Discounts>
+		<Likes>627</Likes>
+		<Available_count>1</Available_count>
+		<Product_image>bed.jpg</Product_image>
+	</Item>
+	<Item id="10009">
+		<Name>Wakefit Mattress</Name>
+		<Description>Wakefit Mattress | 10 Years Warranty | ShapeSense Orthopedic Classic Memory Foam Mattress, Mattress Double Bed, 10-Inch Bed Mattress, King Size Mattress (78x72x10 Inches, Medium Firm, Space Grey)</Description>
+		<Category>Furniture</Category>
+		<Actual_price>28998</Actual_price>
+		<Discounts>44</Discounts>
+		<Likes>6</Likes>
+		<Available_count>12</Available_count>
+		<Product_image>mattress.jpg</Product_image>
+	</Item>
+	<Item id="10010">
+		<Name>SONA ART and CRAFTS Modern Furniture Solid Sheesham Wood Dining Table</Name>
+		<Description>SONA ART and CRAFTS Modern Furniture Solid Sheesham Wood Dining Table 4 Seater Dining Table Set with 4 Cushion Chairs Dinner Table Set for Dinning Room Home Hotel and Office (Natural Finish)</Description>
+		<Category>Furniture</Category>
+		<Actual_price>28998</Actual_price>
+		<Discounts>4</Discounts>
+		<Likes>2</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>dining_table.jpg</Product_image>
+	</Item>
+	<!-- Fashion -->
+	<Item id="10011">
+		<Name>Puma Dazzler Sneakers</Name>
+		<Description>Puma Dazzler Elevate, intensify the Style drills, out run those goals, here are the perfect PUMA Shoes an all season favorite , perfect for leisure.</Description>
+		<Category>Fashion</Category>
+		<Actual_price>3999</Actual_price>
+		<Discounts>50</Discounts>
+		<Likes>5415</Likes>
+		<Available_count>1299</Available_count>
+		<Product_image>shoe.jpg</Product_image>
+	</Item>
+	<Item id="10012">
+		<Name>Mens Solid Slim Fit Cotton Casual Shirt</Name>
+		<Description>Dennis Lingo Solid Slim Fit Cotton Casual Shirt with Spread Collar and Full Sleeves (Also Available in Plus Size)</Description>
+		<Category>Fashion</Category>
+		<Actual_price>1849</Actual_price>
+		<Discounts>73</Discounts>
+		<Likes>5</Likes>
+		<Available_count>499</Available_count>
+		<Product_image>shirt.jpg</Product_image>
+	</Item>
+	<Item id="10013">
+		<Name>Levi Rise Jeans</Name>
+		<Description>Everything you like about 512 Slim, but updated with a narrow fit through the thigh and tapered leg for the fashion-forward guy. Its perfect for the modern look right now. This pair has just the right amount of stretch for all-day comfort and comes in a blue hue with the classic 5 pocket and a cotton blend material. Style it with our classic shirts and a pair of sneakers to complete your casual look. 1. Sits below the waist 2. Narrow leg for a more tailored look 3. The perfect balance of slim and tapered More than 140 years after inventing the blue jean, one thing is clear: Levis clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman. Live in Levis asserts with confidence and pride that Levis clothes are indeed for everybody whos not just anybody.
+		</Description>
+		<Category>Fashion</Category>
+		<Actual_price>3399</Actual_price>
+		<Discounts>62</Discounts>
+		<Likes>51</Likes>
+		<Available_count>4</Available_count>
+		<Product_image>jean.jpg</Product_image>
+	</Item>
+	<Item id="10015">
+		<Name>Mens Kurta</Name>
+		<Description>Kurta Only
+			Cotton blend fabric
+			Available sizes: 32 (2XS) to 46 (3XL)
+		</Description>
+		<Category>Fashion</Category>
+		<Actual_price>450</Actual_price>
+		<Discounts />
+		<Likes>1721</Likes>
+		<Available_count>27</Available_count>
+		<Product_image>kurta.jpg</Product_image>
+	</Item>
+	<Item id="10016">
+		<Name>Bluetooth Headset</Name>
+		<Description>The earphone comes with a snug fit providing utmost comfort while wearing them regularly. Connect the 3.5mm jack to the phone and wait for a few seconds for the product to get sync with the phone. Water Resistant : Yes
+			The snug-fit also ensures a passive noise cancellation so that you can bask in the pure audio experience.
+			Impedance 16 Ω
+			Frequency response 20Hz-20kHz
+			Cable length 1.2m
+			Country of Origin: China
+		</Description>
+		<Category>Mobile Accessories</Category>
+		<Actual_price>390</Actual_price>
+		<Discounts />
+		<Likes>1001</Likes>
+		<Available_count>22</Available_count>
+		<Product_image>headset.jpg</Product_image>
+	</Item>
+	<Item id="10017">
+		<Name>Mobile Back Case</Name>
+		<Description>Designed Exclusively For Samsung Galaxy M14 5G - Hybrid AirEDGE technology fusing Superior Quality TPU Material and a durable Clear Transparent back panel
+			SHOCK PROOF PROTECTION - Highly Protective Rugged Armor for Complete Protection of Mobile Frame and Screen from scratches, falls, and shocks.
+			CAMERA and SCREEN PROTECTION - Raised bezels lift camera and screen off flat surfaces, protecting from scratches and scuff marks. Ultra slim, Flexible, light weight Anti Smudge
+			PRECISE BUTTONS AND CUTOUTS - Pronounced buttons are easy to feel and press, while large cutouts for the charging port fits most cables. Supports bilateral wireless charging.
+			FULL COMPATIBILITY - This Armour Back Case is designed to be compatible with most screen protectors. Compatible with Samsung Galaxy M14 5G case cover
+		</Description>
+		<Category>Mobile Accessories</Category>
+		<Actual_price>210</Actual_price>
+		<Discounts />
+		<Likes>1221</Likes>
+		<Available_count>35</Available_count>
+		<Product_image>back_case.jpg</Product_image>
+	</Item>
+	<Item id="10018">
+		<Name>Mobile Tempered Glass</Name>
+		<Description>TopDeals Mobile Accessories: It is 100% brand new tempered glass for iPhone 13 / 13 Pro / 14 (6.1 Inches) which is specially designed for edge to edge protection.
+			Real Experience: This iPhone 13 tempered glass is designed to provide the smooth experience with 99.9% transparency to allow you to feel a natural viewing experience.
+			Best Quality: This iPhone 13 pro tempered glass is ultra-thin (0.33 mm thickness) which is made by precise laser cut, exquisitely polished, good rounded edges and compatible for 3D touch. This iPhone 14 tempered glass promises full compatibility with touchscreen sensitivity and HD Clarity which retains the experience of the original glass. This iPhone 13 screen guard contains hydrophobic oleophobic screen coating which protects against sweat, oil and water.
+			Scratch proof: This iPhone 13 pro screen guard provides the 9H Hardness screen protector can effectively protect your phone from unwanted scuffs and scratches by knife, keys and some other hard
+			substances. The surface of the iPhone 14 screen protector has a strong hardness and 9H tempered glass protects the entire front display. Dont get scratches even if scratched with keys in your pocket.
+			Compatible Device: iPhone 13 / 13 Pro / 14 (6.1 Inches) Easy Installation: This iPhone 13 edge to edge tempered glass is bubble free adhesive and easy to install. You can follow installation guidelines which printed on OpenTech box. Box Includes: iPhone 13 Pro gorilla tempered glass, Wet wipe, Microfiber screen cleaning cloth, Dust absorber sticker and OpenTech box with installation guidelines.
+		</Description>
+		<Category>Mobile Accessories</Category>
+		<Actual_price>190</Actual_price>
+		<Discounts />
+		<Likes>17211</Likes>
+		<Available_count>50</Available_count>
+		<Product_image>tempered_glass.jpg</Product_image>
+	</Item>
+	<Item id="10019">
+		<Name>Mobile Charger Cable</Name>
+		<Description> Fast Charging - Delivers 3A fast charging and 480 Mbps data transfer speed.
+			Quick Charge 2.0/ 3.0 - Supports Quick Charge (QC) 2.0/3.0 to deliver rapid charging speed.
+			Wide Compatibility - It is compatible with all Type-C enabled devices including Android smartphones, tablets and PC peripherals.
+			Unbreakable - Made of special braided outer with rugged interior it is an ultra-durable cable that won’t be affected by daily rough usage.
+			Ideal Length - It has an ideal length of 1.5 meters which is super convenient to use.
+			Made in India - This product is Made in India at the manufacturing facility in Haryana.
+			180 Days Warranty - It comes with a 6 months warranty against manufacturing defects.
+		</Description>
+		<Category>Mobile Accessories</Category>
+		<Actual_price>250</Actual_price>
+		<Discounts />
+		<Likes>1312</Likes>
+		<Available_count>31</Available_count>
+		<Product_image>charger_cable.jpg</Product_image>
+	</Item>
+	<Item id="10020">
+		<Name>Power Bank</Name>
+		<Description>20W Fast Charging Output– Powerful 20 Watts PD and QC output for boosted charging speed, charging experience. Certified by the Bureau of Indian Standards on safety parameters.</Description>
+		<Category>Mobile Accessories</Category>
+		<Actual_price>450</Actual_price>
+		<Discounts />
+		<Likes>1521</Likes>
+		<Available_count>27</Available_count>
+		<Product_image>power_bank.jpg</Product_image>
+	</Item>
+	<Item id="10021">
+		<Name>Mouse</Name>
+		<Description>Movement Detection: Optical, Resolution : 1000dpi;Cable Length : 1.8 meter, Interface Type : USB
+			Colour : Black, Weight : 413 Grams
+			Great Aesthetics, Usage ideal for office, education sectors, designing, basic gaming etc
+			Comfortable for use in longer periods with performance; Warranty : 3 Year
+			Hardware Platform: Pc
+		</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>300</Actual_price>
+		<Discounts />
+		<Likes>721</Likes>
+		<Available_count>27</Available_count>
+		<Product_image>mouse.jpg</Product_image>
+	</Item>
+	<Item id="10022">
+		<Name>Keyboard</Name>
+		<Description>Full Size USB Keyboard with 107 Keys Silent Operation Modern Slim design Device Keyboard 1.8m Cable</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>200</Actual_price>
+		<Discounts />
+		<Likes>450</Likes>
+		<Available_count>22</Available_count>
+		<Product_image>keyboard.jpg</Product_image>
+	</Item>
+	<Item id="10023">
+		<Name>Laptop Bag</Name>
+		<Description>Slim, compact sturdy: Minimal and compact design for professionals Joint material design, durable, water-resistant polyester material. The padded shoulder straps, handle, and back panel provides protection and allday comfort Smooth zippers that never jam or break Style meets Function: Minimal compact design, stores and protects laptops up to 15.6-inches. Ideal for students and professionals looking for a stylish and compact backpack for daily useSpacious storage with easy organization: Inside, youll find a laptop sleeve, a tablet pocket, a roomy front workstation, and two side pockets for quick access to your other essentials</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>1200</Actual_price>
+		<Discounts>10</Discounts>
+		<Likes>1234</Likes>
+		<Available_count>30</Available_count>
+		<Product_image>laptop_bag.jpg</Product_image>
+	</Item>
+	<Item id="10024">
+		<Name>Pendrive</Name>
+		<Description>Capacity : 64GB Performance Read (Max.): up to 200MB/s
+			Performance Write (Max.): up to 30MB/s Interface: USB 3.2 Gen 1
+			Compatibility: USB 3.2 Gen 1 Operating Temperature: 0oC to 65oC
+			Storage Temperature: -40oC to 85oC Major IC Chipsets
+			Universal Compatibility
+		</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>950</Actual_price>
+		<Discounts>3</Discounts>
+		<Likes>2001</Likes>
+		<Available_count>25</Available_count>
+		<Product_image>pendrive.jpg</Product_image>
+	</Item>
+	<Item id="10025">
+		<Name>Hard Disk</Name>
+		<Description>Safely and easily manage 1 TB of photos, videos, movies, and more with hardware encrypted password-protection.
+			Get an extra layer of protection for your data with the included 3 year Rescue Data Recovery Services.
+			The perfect external hard drive for Windows or Mac, simply back up files with a single click or schedule automatic daily, weekly or monthly backups. Reformatting may be required for use with Time Machine.
+			The perfect compliment to personal aesthetic, this portable external hard drive features a minimalist brushed metal enclosure.
+			6 Months Mylio Create Plan and Dropbox backup plan.
+		</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>5500</Actual_price>
+		<Discounts>7</Discounts>
+		<Likes>720</Likes>
+		<Available_count>15</Available_count>
+		<Product_image>hard_disk.jpg</Product_image>
+	</Item>
+	<Item id="10026">
+		<Name>Laptop Table</Name>
+		<Description>【LARGE SIZE】 - 23.42(L) x 15.55(W) x 9.84(H) Inch. Callas Lap Desk perfectly fits nearly all size laptop,or tablet phone, also can put a mouse and books. There is ample space to work, study, eat breakfast or dessert on the bed table. Package Contain : 1 Laptop Table.
+			【MUTI-FUNCTIONAL DESK】 – Callas Bed Table Built-in iPad stand groove for holding ipad or kindle.And desk comes with a table cup holder to store cups well. The Anti-Slip Sponge can keep your laptop safe while tilted, and provide you comfort and stability while using.
+			【PORTABLE AND CONVENIENT】 – The metal legs are foldable, easily fold flat for convenient storage when you dont need it.There are handles on the table, you can easily take the table to any place you want to use it.It is very lightweight, easy to carry and play.Go out camping is also an ideal choice.
+			【ERGONOMIC DESIGN】–Curved desktop edge, scientific design, protective layer around the desktop, so you can feel comfortable when using. The W-legs are
+			stable and flexible, which are anti-slip and can be folded to save space.
+			【PACKAGE CONTENTS】 –1 laptop table.
+		</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>1500</Actual_price>
+		<Discounts>5</Discounts>
+		<Likes>450</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>laptop_table.jpg</Product_image>
+	</Item>
+	<Item id="10030">
+		<Name>Sprinkls</Name>
+		<Description>a</Description>
+		<Category>Computer Accessories</Category>
+		<Actual_price>1000</Actual_price>
+		<Discounts>1</Discounts>
+		<Likes>10</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>ep3eymvfr6ee1.jpg</Product_image>
+	</Item>
+	<Item id="10031">
+		<Name>T-shirt</Name>
+		<Description>its a good shirt to wear</Description>
+		<Category>Clouth</Category>
+		<Actual_price>1000</Actual_price>
+		<Discounts>1</Discounts>
+		<Likes>2</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>t-shirt</Product_image>
+	</Item>
+	<Item id="10032">
+		<Name>Raj</Name>
+		<Description>q</Description>
+		<Category>books</Category>
+		<Actual_price>20</Actual_price>
+		<Discounts>1</Discounts>
+		<Likes>10</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>ep3eymvfr6ee1.jpg</Product_image>
+	</Item>
+	<Item id="10033">
+		<Name>T-shirt</Name>
+		<Description>its a good shirt to wear</Description>
+		<Category>Clouth</Category>
+		<Actual_price>1000</Actual_price>
+		<Discounts>1</Discounts>
+		<Likes>2</Likes>
+		<Available_count>10</Available_count>
+		<Product_image>t-shirt</Product_image>
+	</Item>
+	<Item id="10034">
+		<Actual_price>20</Actual_price>
+		<Description>My servlet</Description>
+		<Category>books</Category>
+		<Available_count>10</Available_count>
+		<Product_image>images.jpg</Product_image>
+		<Discounts>1</Discounts>
+		<Likes>null</Likes>
+		<Name>Sprinkls</Name>
+	</Item>
+</productDetails>
